@@ -1,0 +1,15 @@
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\bin\Debug\net8.0\QRUtilityApp.Service.deps.json
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\bin\Debug\net8.0\QRUtilityApp.Service.dll
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\bin\Debug\net8.0\QRUtilityApp.Service.pdb
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\bin\Debug\net8.0\QRUtilityApp.Domain.dll
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\bin\Debug\net8.0\QRUtilityApp.Domain.pdb
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.csproj.AssemblyReference.cache
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.AssemblyInfoInputs.cache
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.AssemblyInfo.cs
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.csproj.CoreCompileInputs.cache
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilit.96AA1809.Up2Date
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.dll
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\refint\QRUtilityApp.Service.dll
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\QRUtilityApp.Service.pdb
+C:\C# APPS\QRUtilityApp.API\QRUtilityApp.Service\obj\Debug\net8.0\ref\QRUtilityApp.Service.dll

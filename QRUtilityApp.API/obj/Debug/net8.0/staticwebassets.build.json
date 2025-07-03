@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2VyGNq9O58WmmRkEJf8WfvBt9FqCRGx0hAy6D4JoOH4=",
+  "Source": "QRUtilityApp.API",
+  "BasePath": "_content/QRUtilityApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
